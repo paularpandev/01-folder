@@ -6,7 +6,7 @@ export const App = () => {
   const fullProfile=[
   {
     "profilePicture": "https://www.bing.com/th/id/OIP.IGNf7GuQaCqz_RPq5wCkPgHaLH?w=170&h=211&c=8&rs=1&qlt=90&o=6&cb=ucfimgc1&dpr=1.3&pid=3.1&rm=2",
-    "name": "Arjun Mehta",
+    "name": "Arpan Paul",
     "workingBranch": "Software Engineer",
     "friends": 520,
     "followers": 1200,
